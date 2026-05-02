@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node Lab/server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.6.1",
+    "moongoose": "^0.0.5"
+  }
+}
